@@ -1,0 +1,784 @@
+h1{
+position: absolute;
+width: 587px;
+height: 64px;
+left: 236px;
+top: 49px;
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 64px;
+}
+
+.subtitle p{
+position: absolute;
+width: 592px;
+height: 51px;
+left: 261px;
+top: 140px;
+font-family: 'Montserrat';
+font-style: italic;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+}
+
+.points{
+position: absolute;
+height: 51px;
+left: 235px;
+top: 155px;
+height: 15px;
+}
+
+.cake_photo{
+position: absolute;
+width: 969px;
+height: 470px;
+left: 234px;
+top: 220px;
+border-radius: 12px;
+}
+
+.ingredients{
+position: absolute;
+left: 236px;
+top: 711px;
+width: 545px;
+}
+
+.ingredients h3{
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 32px;
+}
+
+.ingredients p{
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 25px;
+}
+
+.icon_c{
+padding-right: 15px;
+}
+
+.ingredients h4{
+font-family: 'Playfair Display';
+font-style: italic;
+font-weight: 400;
+font-size: 18px;
+line-height: 24px;
+}
+
+.time{
+position: absolute;
+top: 714px;
+width: 216px;
+height: 367px;
+left: 984px;
+box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
+border-radius: 12px;
+text-align: center;
+}
+
+.icon1 img{
+width: 28px;
+height: 28px;
+}
+
+.icon1{
+position: absolute;
+left: 11.42%;
+top: 15.06%;
+}
+
+.yields{ 
+position: absolute;
+width: 38px;
+height: 12px;
+left: 65px;
+top: 45px;
+}
+
+.yields{
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 10px;
+line-height: 12px;
+text-transform: uppercase;
+color: silver;
+}
+
+
+.servings{
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+color: goldenrod;
+}
+
+.servings{ 
+position: absolute;
+height: 12px;
+left: 65px;
+top: 55px;
+}
+
+.icon2 img{
+width: 24px;
+height: 24px;
+}
+
+.icon2{
+position: absolute;
+left: 13.50%;
+top: 120px;
+}
+
+.prep_time{ 
+position: absolute;
+height: 12px;
+left: 65px;
+top: 110px;
+}
+
+.prep_time{
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 10px;
+line-height: 12px;
+text-transform: uppercase;
+color: silver;
+}
+
+.minutes{
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+}
+
+.minutes{ 
+position: absolute;
+height: 12px;
+left: 65px;
+top: 115px;
+}
+
+
+
+.icon3 img{
+width: 24px;
+height: 24px;
+}
+
+.icon3{
+position: absolute;
+left: 13.50%;
+top: 180px;
+}
+
+.cook_time{ 
+position: absolute;
+height: 12px;
+left: 65px;
+top: 170px;
+}
+
+.cook_time{
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 10px;
+line-height: 12px;
+text-transform: uppercase;
+color: silver;
+}
+
+.hour{
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+}
+
+.hour{ 
+position: absolute;
+height: 12px;
+left: 65px;
+top: 175px;
+}
+
+
+.icon4 img{
+width: 24px;
+height: 24px;
+}
+
+.icon4{
+position: absolute;
+left: 13.50%;
+top: 240px;
+}
+
+.t_time{ 
+position: absolute;
+height: 12px;
+left: 65px;
+top: 230px;
+}
+
+.t_time{
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 10px;
+line-height: 12px;
+text-transform: uppercase;
+color: silver;
+}
+
+.t_hour{
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+}
+
+.t_hour{ 
+position: absolute;
+height: 12px;
+left: 65px;
+top: 240px;
+}
+
+.instructions{
+position: absolute;
+left: 236px;
+top: 1382px;
+width: 545px;
+}
+
+.instructions h3{
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 32px;
+}
+
+.instructions .instruction{
+left: 350;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+margin-left: 20px;
+}
+
+.inst_1{ 
+font-size: 130;
+color: white;
+width: 36px;
+height: 30px;
+padding-top: 6px;
+text-align: center;
+background-color: orange;
+}
+
+.inst_2{ 
+font-size: 130;
+color: white;
+width: 100px;
+height: 20px;
+padding: 8px;
+text-align: center;
+background-color: orange;
+}
+
+.inst_2{ 
+font-size: 130;
+color: white;
+width: 120px;
+height: 20px;
+padding: 8px;
+text-align: center;
+background-color: orange;
+}
+
+.inst_3{ 
+font-size: 130;
+color: white;
+width: 100px;
+height: 20px;
+padding: 8px;
+text-align: center;
+background-color: orange;
+}
+
+.inst_4{ 
+font-size: 130;
+color: white;
+width: 100px;
+height: 20px;
+padding: 8px;
+text-align: center;
+background-color: orange;
+}
+
+.inst_5{ 
+font-size: 130;
+color: white;
+width: 100px;
+height: 20px;
+padding: 8px;
+text-align: center;
+background-color: orange;
+}
+
+.inst_6{ 
+font-size: 130;
+color: white;
+width: 50px;
+height: 20px;
+padding: 8px;
+text-align: center;
+background-color: orange;
+}
+
+.inst_7{ 
+font-size: 130;
+color: white;
+width: 25px;
+height: 20px;
+padding: 8px;
+text-align: center;
+background-color: orange;
+}
+
+.instruc{
+display: flex;
+}
+
+.source{
+color: silver;
+}
+
+footer{
+position: absolute;
+top: 2600px;
+left: 40%;
+color: gray;
+}
+
+/*responsive*/
+@media only screen and (max-width: 768px) {
+
+h1{
+position: absolute;
+width: 350px;
+height: 29px;
+left: 11px;
+top: 14px;
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 32px;
+}
+
+.subtitle p{
+position: absolute;
+width: 280px;
+height: 88px;
+left: 36px;
+top: 73px;
+
+font-family: 'Montserrat';
+font-style: italic;
+font-weight: 500;
+font-size: 12px;
+line-height: 15px;
+}
+
+.points{
+position: absolute;
+left: 10px;
+top: 85px;
+}
+
+.cake_photo{
+position: absolute;
+width: 350px;
+height: 213.83px;
+left: 11px;
+top: 161.17px;
+border-radius: 12px;
+}
+
+
+.time{
+position: absolute;
+left: 1px;
+top: 340px;
+width: 320px;
+box-shadow: none;
+}
+
+.icon1 img{
+width: 20px;
+height: 20px;
+}
+
+.icon1{
+position: absolute;
+left: 15px;
+top: 16%;
+bottom: 12.99%;
+}
+
+.yields{ 
+position: absolute;
+width: 38px;
+height: 10px;
+left: 50px;
+top: 52px;
+}
+
+.yields{
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 10px;
+line-height: 10px;
+text-transform: uppercase;
+color: silver;
+}
+
+
+.servings{
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 17px;
+color: goldenrod;
+}
+
+.servings{ 
+position: absolute;
+height: 12px;
+left: 50px;
+top: 56px;
+}
+
+.icon2 img{
+width: 18px;
+height: 18px;
+}
+
+.icon2{
+position: absolute;
+left: 15px;
+top: 120px;
+}
+
+.prep_time{ 
+position: absolute;
+height: 12px;
+left: 40px;
+top: 110px;
+}
+
+.prep_time{
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 10px;
+line-height: 12px;
+text-transform: uppercase;
+color: silver;
+}
+
+.minutes{
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 17px;
+}
+
+.minutes{ 
+position: absolute;
+height: 12px;
+left: 40px;
+top: 115px;
+}
+
+
+
+.icon3 img{
+width: 18px;
+height: 18px;
+}
+
+.icon3{
+position: absolute;
+left: 115px;
+top: 120px;
+}
+
+.cook_time{ 
+position: absolute;
+height: 12px;
+left: 140px;
+top: 110px;
+}
+
+.cook_time{
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 10px;
+line-height: 12px;
+text-transform: uppercase;
+color: silver;
+}
+
+.hour{
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 17px;
+}
+
+.hour{ 
+position: absolute;
+height: 12px;
+left: 140px;
+top: 115px;
+}
+
+
+.icon4 img{
+width: 18px;
+height: 18px;
+}
+
+.icon4{
+position: absolute;
+left: 220px;
+top: 120px;
+}
+
+.t_time{ 
+position: absolute;
+height: 12px;
+left: 245px;
+top: 110px;
+}
+
+.t_time{
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 10px;
+line-height: 12px;
+text-transform: uppercase;
+color: silver;
+}
+
+.t_hour{
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 14px;
+}
+
+.t_hour{ 
+position: absolute;
+height: 12px;
+left: 245px;
+top: 118px;
+}
+
+.ingredients{
+position: absolute;
+left: 15px;
+top: 500px;
+width: 350px;
+}
+
+.ingredients h3{
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 32px;
+}
+
+.ingredients p{
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 25px;
+}
+
+.icon_c{
+padding-right: 14px;
+}
+
+.ingredients h4{
+font-family: 'Playfair Display';
+font-style: italic;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+}
+
+
+.instructions{
+position: absolute;
+left: 15px;
+top: 1200px;
+width: 345px;
+}
+
+.instructions h3{
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 32px;
+}
+
+.instructions .instruction{
+left: 350;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+margin-left: 20px;
+}
+
+.inst_1{ 
+font-size: 130;
+color: white;
+width: 36px;
+height: 30px;
+padding-top: 6px;
+text-align: center;
+background-color: orange;
+}
+
+.inst_2{ 
+font-size: 130;
+color: white;
+width: 50px;
+height: 20px;
+padding: 8px;
+text-align: center;
+background-color: orange;
+}
+
+.inst_2{ 
+font-size: 130;
+color: white;
+width: 120px;
+height: 20px;
+padding: 8px;
+text-align: center;
+background-color: orange;
+}
+
+.inst_3{ 
+font-size: 130;
+color: white;
+width: 100px;
+height: 20px;
+padding: 8px;
+text-align: center;
+background-color: orange;
+}
+
+.inst_4{ 
+font-size: 130;
+color: white;
+width: 100px;
+height: 20px;
+padding: 8px;
+text-align: center;
+background-color: orange;
+}
+
+.inst_5{ 
+font-size: 130;
+color: white;
+width: 100px;
+height: 20px;
+padding: 8px;
+text-align: center;
+background-color: orange;
+}
+
+.inst_6{ 
+font-size: 130;
+color: white;
+width: 50px;
+height: 20px;
+padding: 8px;
+text-align: center;
+background-color: orange;
+}
+
+.inst_7{ 
+font-size: 130;
+color: white;
+width: 25px;
+height: 20px;
+padding: 8px;
+text-align: center;
+background-color: orange;
+}
+
+.instruc{
+display: flex;
+}
+
+.source{
+color: silver;
+font-size: 14px;
+}
+
+footer{
+position: absolute;
+top: 2650px;
+color: gray;
+width: 100%;
+text-align: center;
+font-size: 14px;
+left: 14px;
+}
+
+
+
+}
