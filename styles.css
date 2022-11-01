@@ -64,9 +64,7 @@ font-size: 16px;
 line-height: 25px;
 }
 
-.icon_c{
-padding-right: 15px;
-}
+
 
 .ingredients h4{
 font-family: 'Playfair Display';
@@ -133,10 +131,6 @@ left: 65px;
 top: 55px;
 }
 
-.icon2 img{
-width: 24px;
-height: 24px;
-}
 
 .icon2{
 position: absolute;
@@ -177,12 +171,6 @@ top: 115px;
 }
 
 
-
-.icon3 img{
-width: 24px;
-height: 24px;
-}
-
 .icon3{
 position: absolute;
 left: 13.50%;
@@ -221,11 +209,6 @@ left: 65px;
 top: 175px;
 }
 
-
-.icon4 img{
-width: 24px;
-height: 24px;
-}
 
 .icon4{
 position: absolute;
@@ -487,10 +470,7 @@ left: 50px;
 top: 56px;
 }
 
-.icon2 img{
-width: 18px;
-height: 18px;
-}
+
 
 .icon2{
 position: absolute;
@@ -531,12 +511,6 @@ top: 115px;
 }
 
 
-
-.icon3 img{
-width: 18px;
-height: 18px;
-}
-
 .icon3{
 position: absolute;
 left: 115px;
@@ -575,11 +549,6 @@ left: 140px;
 top: 115px;
 }
 
-
-.icon4 img{
-width: 18px;
-height: 18px;
-}
 
 .icon4{
 position: absolute;
